@@ -1,5 +1,5 @@
 # !/bin/bash
-WoRK_PATH = '/use/probject/dockerWebhook'
+WoRK_PATH = '/usr/probject/dockerWebhook'
 cd $WoRK_PATH
 echo "先清除老代码"
 git reset --hard origin/master
