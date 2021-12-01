@@ -8,6 +8,3 @@
 lib
 node_modules
 .idea
-Dockerfile
-package-lock.json
-.dockerignore
